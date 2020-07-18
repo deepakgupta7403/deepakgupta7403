@@ -8,3 +8,6 @@ This is the place where I enhance my skills, put open source stuff and learn new
 - 📫 How to reach me: [@email](deepakgupta7403@gmail.com) , [@twitter](https://twitter.com/deepakgupta7403), [@linkedln](https://in.linkedin.com/in/deepak-gupta-23b3b1113), [@facebook](https://facebook.com/deepakgupta7403)
 - 😄 Pronouns: Deepu :grin: :grin: :grin:
 - ⚡ Fun fact: Single :grimacing:
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
