@@ -9,6 +9,8 @@ This is the place where I enhance my skills, put open source stuff and learn new
 - 😄 Pronouns: Deepu :grin: :grin: :grin:
 - ⚡ Fun fact: Single :grimacing:
 
+📊 **This week I spent my time on**
+
 <!--START_SECTION:waka-->
 ```text
 Other       5 hrs 8 mins        ██████████████████████░░░   90.22 % 
