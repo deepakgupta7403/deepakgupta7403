@@ -10,4 +10,11 @@ This is the place where I enhance my skills, put open source stuff and learn new
 - ⚡ Fun fact: Single :grimacing:
 
 <!--START_SECTION:waka-->
+```text
+Other       5 hrs 8 mins        ██████████████████████░░░   90.22 % 
+Properties  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Groovy      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+XML         7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Java        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+```
 <!--END_SECTION:waka-->
