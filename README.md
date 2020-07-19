@@ -13,6 +13,8 @@ This is the place where I enhance my skills, put open source stuff and learn new
 
 <!--START_SECTION:waka-->
 ```text
+Week: 11 July, 2020 - 18 July, 2020
+
 Other       5 hrs 8 mins        ██████████████████████░░░   90.22 % 
 Properties  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 Groovy      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
