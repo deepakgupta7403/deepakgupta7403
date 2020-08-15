@@ -13,7 +13,7 @@ This is the place where I enhance my skills, put open source stuff and learn new
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 August, 2020 - 13 August, 2020
+Week: 07 August, 2020 - 14 August, 2020
 
 Java         37 hrs 39 mins  █████████████████████░░░░   84.81 % 
 XML          4 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
