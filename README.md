@@ -13,12 +13,12 @@ This is the place where I enhance my skills, put open source stuff and learn new
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 October, 2020 - 06 November, 2020
+Week: 31 October, 2020 - 07 November, 2020
 
-Java     14 hrs 48 mins  ███████████████▒░░░░░░░░░   61.21 % 
-XML      5 hrs 47 mins   ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
-Groovy   1 hr 44 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-Prolog   52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-JSON     40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Java     12 hrs 16 mins  ██████████████░░░░░░░░░░░   56.60 % 
+XML      5 hrs 44 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.50 % 
+Groovy   1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Prolog   59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+JSON     40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 <!--END_SECTION:waka-->
